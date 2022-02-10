@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FvorY&theme=prussian&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=FvorY&theme=prussian&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FvorY&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FvorY&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000"/>
