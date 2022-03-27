@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @FvorY iOS Developer
+- 👋 Hi, I’m @FvorY Web & iOS Developer
 - 👀 I’m interested in web, & mobile development
 - 🌱 I'm currently studying and working 
 
